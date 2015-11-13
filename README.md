@@ -19,7 +19,7 @@ Mapzen offers the Zinc style in three flavors:
 
 **Live Zinc demo:** http://tangrams.github.io/zinc-style-no-labels
 
-![tangram zinc style](https://cloud.githubusercontent.com/assets/853051/11084428/f5c7567e-87ef-11e5-95cd-a4ae66e52f8c.png)
+![zinc-style-no-labels-preview](https://cloud.githubusercontent.com/assets/853051/11136796/c8c8c2ac-8966-11e5-96a3-998f68ba3642.png)
 
 
 ## Developer resources
